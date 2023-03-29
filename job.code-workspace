@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "job",
+		"path": "../mtechub-job-portal/job"
+	},
+	{
+		"name": "finalproject",
+		"path": "."
+	},
+	{
+		"name": "phpmailer",
+		"path": "../mtechub-job-portal/phpmailer"
+	}
+],
+  "settings": {}
+}
